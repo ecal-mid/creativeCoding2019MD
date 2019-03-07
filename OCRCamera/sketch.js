@@ -14,7 +14,10 @@ function setup() {
 }
 
 function mousePressed() {
+  console.log("JJJ");
   var data = c.elt.toDataURL('image/png');//.replace(/data:image\/png;base64,/, '');
+  console.log(data);
+  //console.log(capture.canvas.toDataURL());
   getImage(data);
 }
 
