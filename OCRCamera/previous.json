@@ -1,0 +1,78 @@
+{
+  "Lines": [
+    {
+      "Words": [
+        {
+          "WordText": "Information",
+          "Left": 306,
+          "Top": 86,
+          "Height": 26,
+          "Width": 153
+        },
+        {
+          "WordText": "généralo••",
+          "Left": 469,
+          "Top": 78,
+          "Height": 34,
+          "Width": 154
+        }
+      ],
+      "MaxHeight": 34,
+      "MinTop": 78
+    },
+    {
+      "Words": [
+        {
+          "WordText": "tcvv02ta",
+          "Left": 306,
+          "Top": 321,
+          "Height": 16,
+          "Width": 95
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 321
+    },
+    {
+      "Words": [
+        {
+          "WordText": "tcvV02ta",
+          "Left": 309,
+          "Top": 362,
+          "Height": 16,
+          "Width": 93
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 362
+    },
+    {
+      "Words": [
+        {
+          "WordText": "10..VD2ta",
+          "Left": 310,
+          "Top": 402,
+          "Height": 17,
+          "Width": 93
+        }
+      ],
+      "MaxHeight": 17,
+      "MinTop": 402
+    },
+    {
+      "Words": [
+        {
+          "WordText": "'.CvVD21a",
+          "Left": 313,
+          "Top": 442,
+          "Height": 18,
+          "Width": 91
+        }
+      ],
+      "MaxHeight": 18,
+      "MinTop": 442
+    }
+  ],
+  "HasOverlay": true,
+  "Message": "Total lines: 5"
+}
