@@ -3,76 +3,809 @@
     {
       "Words": [
         {
-          "WordText": "Information",
-          "Left": 306,
-          "Top": 86,
-          "Height": 26,
-          "Width": 153
+          "WordText": "Maria",
+          "Left": 70,
+          "Top": 10,
+          "Height": 13,
+          "Width": 44
         },
         {
-          "WordText": "généralo••",
-          "Left": 469,
-          "Top": 78,
-          "Height": 34,
-          "Width": 154
+          "WordText": "Fechner.",
+          "Left": 120,
+          "Top": 10,
+          "Height": 14,
+          "Width": 69
+        },
+        {
+          "WordText": "Johanna",
+          "Left": 193,
+          "Top": 10,
+          "Height": 13,
+          "Width": 68
+        },
+        {
+          "WordText": "Ellerhold,",
+          "Left": 268,
+          "Top": 8,
+          "Height": 15,
+          "Width": 75
+        },
+        {
+          "WordText": "Farid",
+          "Left": 348,
+          "Top": 7,
+          "Height": 14,
+          "Width": 39
+        },
+        {
+          "WordText": "Haupt,",
+          "Left": 393,
+          "Top": 6,
+          "Height": 16,
+          "Width": 53
+        },
+        {
+          "WordText": "Berlin",
+          "Left": 452,
+          "Top": 4,
+          "Height": 14,
+          "Width": 47
         }
       ],
-      "MaxHeight": 34,
+      "MaxHeight": 16,
+      "MinTop": 4
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Catalogue",
+          "Left": 70,
+          "Top": 28,
+          "Height": 16,
+          "Width": 83
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 28
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Jakob",
+          "Left": 68,
+          "Top": 46,
+          "Height": 13,
+          "Width": 51
+        },
+        {
+          "WordText": "Mayr,",
+          "Left": 124,
+          "Top": 47,
+          "Height": 15,
+          "Width": 42
+        },
+        {
+          "WordText": "Kilian",
+          "Left": 171,
+          "Top": 47,
+          "Height": 13,
+          "Width": 42
+        },
+        {
+          "WordText": "Wittmann,",
+          "Left": 218,
+          "Top": 46,
+          "Height": 15,
+          "Width": 82
+        },
+        {
+          "WordText": "Vienne",
+          "Left": 303,
+          "Top": 46,
+          "Height": 13,
+          "Width": 56
+        }
+      ],
+      "MaxHeight": 15,
+      "MinTop": 46
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Cette",
+          "Left": 68,
+          "Top": 82,
+          "Height": 14,
+          "Width": 44
+        },
+        {
+          "WordText": "exposition",
+          "Left": 118,
+          "Top": 84,
+          "Height": 14,
+          "Width": 83
+        },
+        {
+          "WordText": "est",
+          "Left": 207,
+          "Top": 85,
+          "Height": 11,
+          "Width": 24
+        },
+        {
+          "WordText": "présentée",
+          "Left": 236,
+          "Top": 83,
+          "Height": 16,
+          "Width": 81
+        },
+        {
+          "WordText": "conjointemervt",
+          "Left": 322,
+          "Top": 81,
+          "Height": 17,
+          "Width": 118
+        },
+        {
+          "WordText": "celle",
+          "Left": 460,
+          "Top": 79,
+          "Height": 13,
+          "Width": 39
+        },
+        {
+          "WordText": "des",
+          "Left": 504,
+          "Top": 78,
+          "Height": 13,
+          "Width": 31
+        }
+      ],
+      "MaxHeight": 17,
       "MinTop": 78
     },
     {
       "Words": [
         {
-          "WordText": "tcvv02ta",
-          "Left": 306,
-          "Top": 321,
-          "Height": 16,
-          "Width": 95
+          "WordText": "Plus",
+          "Left": 68,
+          "Top": 101,
+          "Height": 13,
+          "Width": 34
+        },
+        {
+          "WordText": "beaux",
+          "Left": 108,
+          "Top": 102,
+          "Height": 12,
+          "Width": 48
+        },
+        {
+          "WordText": "livres",
+          "Left": 161,
+          "Top": 102,
+          "Height": 13,
+          "Width": 42
+        },
+        {
+          "WordText": "suisses",
+          "Left": 208,
+          "Top": 103,
+          "Height": 12,
+          "Width": 59
+        },
+        {
+          "WordText": "2017.",
+          "Left": 272,
+          "Top": 101,
+          "Height": 13,
+          "Width": 45
         }
       ],
-      "MaxHeight": 16,
-      "MinTop": 321
+      "MaxHeight": 13,
+      "MinTop": 101
     },
     {
       "Words": [
         {
-          "WordText": "tcvV02ta",
-          "Left": 309,
-          "Top": 362,
-          "Height": 16,
-          "Width": 93
+          "WordText": "Conference",
+          "Left": 67,
+          "Top": 138,
+          "Height": 13,
+          "Width": 98
+        },
+        {
+          "WordText": "le",
+          "Left": 171,
+          "Top": 139,
+          "Height": 13,
+          "Width": 14
+        },
+        {
+          "WordText": "mercredi",
+          "Left": 191,
+          "Top": 139,
+          "Height": 13,
+          "Width": 72
+        },
+        {
+          "WordText": "5",
+          "Left": 269,
+          "Top": 139,
+          "Height": 13,
+          "Width": 9
+        },
+        {
+          "WordText": "décembre",
+          "Left": 284,
+          "Top": 138,
+          "Height": 13,
+          "Width": 83
+        },
+        {
+          "WordText": "å",
+          "Left": 373,
+          "Top": 137,
+          "Height": 13,
+          "Width": 8
+        },
+        {
+          "WordText": "18h",
+          "Left": 388,
+          "Top": 137,
+          "Height": 13,
+          "Width": 32
         }
       ],
-      "MaxHeight": 16,
-      "MinTop": 362
+      "MaxHeight": 13,
+      "MinTop": 137
     },
     {
       "Words": [
         {
-          "WordText": "10..VD2ta",
-          "Left": 310,
-          "Top": 402,
+          "WordText": "Auditotre",
+          "Left": 67,
+          "Top": 157,
+          "Height": 13,
+          "Width": 76
+        },
+        {
+          "WordText": "'KEA.",
+          "Left": 149,
+          "Top": 157,
+          "Height": 14,
+          "Width": 41
+        },
+        {
+          "WordText": "ECAL",
+          "Left": 195,
+          "Top": 157,
+          "Height": 13,
+          "Width": 43
+        }
+      ],
+      "MaxHeight": 14,
+      "MinTop": 157
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Noemie",
+          "Left": 87,
+          "Top": 175,
+          "Height": 13,
+          "Width": 65
+        },
+        {
+          "WordText": "Gygax,",
+          "Left": 157,
+          "Top": 175,
+          "Height": 16,
+          "Width": 55
+        },
+        {
+          "WordText": "designer",
+          "Left": 216,
+          "Top": 176,
+          "Height": 15,
+          "Width": 72
+        },
+        {
+          "WordText": "graphique,",
+          "Left": 294,
+          "Top": 175,
+          "Height": 16,
+          "Width": 87
+        },
+        {
+          "WordText": "lauréate",
+          "Left": 386,
+          "Top": 174,
+          "Height": 13,
+          "Width": 67
+        },
+        {
+          "WordText": "des",
+          "Left": 458,
+          "Top": 173,
+          "Height": 13,
+          "Width": 31
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 173
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Plus",
+          "Left": 86,
+          "Top": 193,
+          "Height": 13,
+          "Width": 35
+        },
+        {
+          "WordText": "beaux",
+          "Left": 126,
+          "Top": 194,
+          "Height": 12,
+          "Width": 50
+        },
+        {
+          "WordText": "livres",
+          "Left": 180,
+          "Top": 194,
+          "Height": 13,
+          "Width": 42
+        },
+        {
+          "WordText": "suisses,",
+          "Left": 227,
+          "Top": 194,
+          "Height": 14,
+          "Width": 63
+        },
+        {
+          "WordText": "Neuchåtel",
+          "Left": 295,
+          "Top": 193,
+          "Height": 13,
+          "Width": 82
+        }
+      ],
+      "MaxHeight": 14,
+      "MinTop": 193
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Hubertus",
+          "Left": 86,
+          "Top": 212,
+          "Height": 13,
+          "Width": 77
+        },
+        {
+          "WordText": "Design",
+          "Left": 169,
+          "Top": 212,
+          "Height": 16,
+          "Width": 55
+        },
+        {
+          "WordText": "(Kerstin",
+          "Left": 231,
+          "Top": 212,
+          "Height": 16,
+          "Width": 59
+        },
+        {
+          "WordText": "Landis,",
+          "Left": 297,
+          "Top": 212,
+          "Height": 14,
+          "Width": 57
+        },
+        {
+          "WordText": "Jonas",
+          "Left": 358,
+          "Top": 212,
+          "Height": 13,
+          "Width": 50
+        },
+        {
+          "WordText": "Voegeli),",
+          "Left": 412,
+          "Top": 211,
+          "Height": 16,
+          "Width": 74
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 211
+    },
+    {
+      "Words": [
+        {
+          "WordText": "designers",
+          "Left": 85,
+          "Top": 231,
+          "Height": 16,
+          "Width": 84
+        },
+        {
+          "WordText": "graphiques,",
+          "Left": 174,
+          "Top": 231,
+          "Height": 16,
+          "Width": 96
+        },
+        {
+          "WordText": "lauréats",
+          "Left": 275,
+          "Top": 231,
+          "Height": 13,
+          "Width": 64
+        },
+        {
+          "WordText": "des",
+          "Left": 345,
+          "Top": 231,
+          "Height": 12,
+          "Width": 29
+        },
+        {
+          "WordText": "Plus",
+          "Left": 380,
+          "Top": 230,
+          "Height": 13,
+          "Width": 34
+        },
+        {
+          "WordText": "beaux",
+          "Left": 420,
+          "Top": 230,
+          "Height": 13,
+          "Width": 50
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 230
+    },
+    {
+      "Words": [
+        {
+          "WordText": "livres",
+          "Left": 85,
+          "Top": 250,
+          "Height": 12,
+          "Width": 44
+        },
+        {
+          "WordText": "suisses",
+          "Left": 134,
+          "Top": 250,
+          "Height": 12,
+          "Width": 60
+        },
+        {
+          "WordText": "et",
+          "Left": 200,
+          "Top": 250,
+          "Height": 12,
+          "Width": 15
+        },
+        {
+          "WordText": "des",
+          "Left": 221,
+          "Top": 250,
+          "Height": 12,
+          "Width": 29
+        },
+        {
+          "WordText": "100",
+          "Left": 255,
+          "Top": 249,
+          "Height": 13,
+          "Width": 31
+        },
+        {
+          "WordText": "beste",
+          "Left": 291,
+          "Top": 249,
+          "Height": 13,
+          "Width": 44
+        },
+        {
+          "WordText": "Plakate,",
+          "Left": 341,
+          "Top": 249,
+          "Height": 15,
+          "Width": 64
+        },
+        {
+          "WordText": "Zurich",
+          "Left": 410,
+          "Top": 249,
+          "Height": 13,
+          "Width": 53
+        }
+      ],
+      "MaxHeight": 15,
+      "MinTop": 249
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Denis",
+          "Left": 85,
+          "Top": 268,
+          "Height": 13,
+          "Width": 47
+        },
+        {
+          "WordText": "Roueche,",
+          "Left": 138,
+          "Top": 268,
+          "Height": 14,
+          "Width": 77
+        },
+        {
+          "WordText": "designer",
+          "Left": 220,
+          "Top": 268,
+          "Height": 16,
+          "Width": 72
+        },
+        {
+          "WordText": "graphique,",
+          "Left": 297,
+          "Top": 268,
+          "Height": 16,
+          "Width": 88
+        },
+        {
+          "WordText": "lauréat",
+          "Left": 390,
+          "Top": 268,
+          "Height": 13,
+          "Width": 57
+        },
+        {
+          "WordText": "des",
+          "Left": 452,
+          "Top": 268,
+          "Height": 13,
+          "Width": 31
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 268
+    },
+    {
+      "Words": [
+        {
+          "WordText": "100",
+          "Left": 84,
+          "Top": 287,
+          "Height": 13,
+          "Width": 33
+        },
+        {
+          "WordText": "beste",
+          "Left": 122,
+          "Top": 287,
+          "Height": 13,
+          "Width": 46
+        },
+        {
+          "WordText": "Plakate,",
+          "Left": 173,
+          "Top": 287,
+          "Height": 14,
+          "Width": 64
+        },
+        {
+          "WordText": "Neuchåtel",
+          "Left": 242,
+          "Top": 287,
+          "Height": 12,
+          "Width": 82
+        }
+      ],
+      "MaxHeight": 14,
+      "MinTop": 287
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Chi-Long",
+          "Left": 84,
+          "Top": 306,
+          "Height": 15,
+          "Width": 78
+        },
+        {
+          "WordText": "Trieu,",
+          "Left": 166,
+          "Top": 305,
+          "Height": 15,
+          "Width": 44
+        },
+        {
+          "WordText": "designer",
+          "Left": 215,
+          "Top": 305,
+          "Height": 16,
+          "Width": 73
+        },
+        {
+          "WordText": "graphique,",
+          "Left": 293,
+          "Top": 305,
+          "Height": 16,
+          "Width": 87
+        },
+        {
+          "WordText": "lauréat",
+          "Left": 385,
+          "Top": 306,
+          "Height": 13,
+          "Width": 57
+        },
+        {
+          "WordText": "des",
+          "Left": 448,
+          "Top": 306,
+          "Height": 14,
+          "Width": 31
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 305
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Plus",
+          "Left": 84,
+          "Top": 325,
+          "Height": 13,
+          "Width": 35
+        },
+        {
+          "WordText": "beaux",
+          "Left": 124,
+          "Top": 325,
+          "Height": 13,
+          "Width": 51
+        },
+        {
+          "WordText": "livres",
+          "Left": 179,
+          "Top": 324,
+          "Height": 13,
+          "Width": 42
+        },
+        {
+          "WordText": "suisses,",
+          "Left": 226,
+          "Top": 324,
+          "Height": 15,
+          "Width": 64
+        },
+        {
+          "WordText": "Lausanne",
+          "Left": 296,
+          "Top": 324,
+          "Height": 14,
+          "Width": 79
+        }
+      ],
+      "MaxHeight": 15,
+      "MinTop": 324
+    },
+    {
+      "Words": [
+        {
+          "WordText": "Galerie",
+          "Left": 63,
+          "Top": 363,
+          "Height": 13,
+          "Width": 61
+        },
+        {
+          "WordText": "l'elac",
+          "Left": 131,
+          "Top": 363,
+          "Height": 12,
+          "Width": 41
+        }
+      ],
+      "MaxHeight": 13,
+      "MinTop": 363
+    },
+    {
+      "Words": [
+        {
+          "WordText": "5,",
+          "Left": 64,
+          "Top": 382,
+          "Height": 15,
+          "Width": 14
+        },
+        {
+          "WordText": "avenue",
+          "Left": 83,
+          "Top": 385,
+          "Height": 10,
+          "Width": 60
+        },
+        {
+          "WordText": "du",
+          "Left": 149,
+          "Top": 381,
+          "Height": 13,
+          "Width": 20
+        },
+        {
+          "WordText": "Temple",
+          "Left": 174,
+          "Top": 380,
+          "Height": 16,
+          "Width": 61
+        }
+      ],
+      "MaxHeight": 16,
+      "MinTop": 380
+    },
+    {
+      "Words": [
+        {
+          "WordText": "CH-1020",
+          "Left": 63,
+          "Top": 400,
+          "Height": 15,
+          "Width": 75
+        },
+        {
+          "WordText": "Renens",
+          "Left": 144,
+          "Top": 400,
+          "Height": 13,
+          "Width": 62
+        }
+      ],
+      "MaxHeight": 15,
+      "MinTop": 400
+    },
+    {
+      "Words": [
+        {
+          "WordText": "www.ecal.ch",
+          "Left": 62,
+          "Top": 419,
+          "Height": 15,
+          "Width": 106
+        }
+      ],
+      "MaxHeight": 15,
+      "MinTop": 419
+    },
+    {
+      "Words": [
+        {
+          "WordText": "wuw.100-beste-plakate.de",
+          "Left": 62,
+          "Top": 437,
           "Height": 17,
-          "Width": 93
+          "Width": 229
         }
       ],
       "MaxHeight": 17,
-      "MinTop": 402
-    },
-    {
-      "Words": [
-        {
-          "WordText": "'.CvVD21a",
-          "Left": 313,
-          "Top": 442,
-          "Height": 18,
-          "Width": 91
-        }
-      ],
-      "MaxHeight": 18,
-      "MinTop": 442
+      "MinTop": 437
     }
   ],
   "HasOverlay": true,
-  "Message": "Total lines: 5"
+  "Message": "Total lines: 21"
 }

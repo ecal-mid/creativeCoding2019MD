@@ -2,7 +2,8 @@
 function getImage(imgData) {
   console.log(imgData);
   var formData = new FormData();
-  formData.append("base64image", imgData);
+  //formData.append("base64image", imgData); // image encodee from video capture (VIDEO CAPTURE)
+  formData.append("file", imgData.file); // image from jpg or png (FROM DROP)
   formData.append("language", "eng"); // eng
   formData.append("apikey", ""); // ADD API KEY !!!!
   formData.append("isOverlayRequired", true);

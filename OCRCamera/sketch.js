@@ -41,6 +41,11 @@ function mousePressed() {
   //receivedJSON(previousJson, false);
 }
 
+function receivedJSON(json) {
+  console.log("Received this json: ");
+  console.log(json);
+}
+
 function draw() {
   imgToSend.image(capture, 0, 0, imgToSend.width, imgToSend.height);
   line(0, 0, width, height);
