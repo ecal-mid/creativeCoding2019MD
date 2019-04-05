@@ -7,11 +7,19 @@ var texts = ["texte1", "texte2"];
 var currentText = "";
 var positionX = -1000;
 //
-function preload() {}
+function preload() {
+
+
+
+
+}
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
   canvasText = createGraphics(gridX, gridY);
+  // canvasText.pixelDensity(1);
+  // canvasText.scale(1/4);
+  //
   console.log("pd: "+canvasText.width+" / "+canvasText.height);
   canvasText.background(255);
   canvasText.textAlign(CENTER, CENTER);
@@ -60,7 +68,7 @@ class Case {
   drawCase() {
     //
     //var color = canvasText.get(this.pixelX, this.pixelY);
-    var color = canvasText.pixels[this.pixelY*canvasText.width + this.pixelX];
+    var color = canvasText.pixels[(this.pixelY*canvasText.width*4 + this.pixelX*4)];
     var lum = brightness(color);
     //console.log(lum);
     if(lum<50) {
