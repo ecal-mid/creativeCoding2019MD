@@ -6,6 +6,7 @@ var recognition = new SpeechRecognition();
 recognition.continuous = true;
 recognition.interimResults = true;
 recognition.maxAlternatives = 1;
+recognition.lang = "fr-FR";
 //
 //
 //

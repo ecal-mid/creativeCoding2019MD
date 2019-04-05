@@ -1,20 +1,19 @@
 var words = [];
-
+//
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
-
+//
 function draw() {
   background(200);
   color(255, 0, 0);
   words.forEach(function(w) {
     w.draw();
   });
-
 }
 
 function receive(sentence) {
-  console.log(sentence);
+  //console.log(sentence);
   words.push(new Word(sentence));
 }
 //
