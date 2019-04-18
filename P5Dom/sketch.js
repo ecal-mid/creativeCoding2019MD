@@ -49,9 +49,11 @@ var rythme = function() {
 //
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  // Récupérer l'élément du DOM
   var input = document.querySelector("#input");
   document.addEventListener("keypress", function(e) {
     if (e.keyCode == 13) {
+      // Récupérer le contenu text de l'élément #input
       var textInput = input.innerHTML;
       cutText(textInput);
       console.log("enter");
